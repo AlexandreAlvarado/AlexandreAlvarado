@@ -91,7 +91,7 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología. Sie
 ## 🏆 Logros y Certificaciones
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexandre-alvarado&theme=radical&no-frame=true&margin-w=15" alt="Trofeos de GitHub"/>
+
 </div>
 
 - 🎓 **Fundamentos de Programación** - Inacap
