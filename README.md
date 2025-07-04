@@ -98,7 +98,7 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología. Sie
 
 ---
 
-
+<!--
 ## 📫 Conectemos
 
 <div align="center">
@@ -117,7 +117,7 @@ Soy un estudiante apasionado por el desarrollo de software y la tecnología. Sie
 </div>
 
 ---
-
+-->
 ## 💡 Cita Inspiradora
 
 <div align="center">
